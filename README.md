@@ -6,7 +6,7 @@ Can you repeat the sequence? Let’s find out!
 ---
 
 ## 🚀 Live Demo  
-🔗 [Play Now](https://your-username.github.io/simon-game)
+🔗 [Play Now](https://skhanshahid.github.io/Simon-game/)
 
 ---
 
